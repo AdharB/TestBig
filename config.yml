@@ -1,0 +1,5 @@
+production:
+  password: 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
+  theme_id: "120145870899"
+  store: beautyindustrygroup.myshopify.com
+  timeout: 7m0s
